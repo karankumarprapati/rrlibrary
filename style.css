@@ -65,57 +65,57 @@
    }
    @keyframes changebg {
     0%{
-        background: url("./photos/b1.jpg");
+        background: url("b1.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
     10%{
-        background: url("./photos/b1.jpg");
+        background: url("b1.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
     20%{
-        background: url("./photos/b2.jpg"); 
+        background: url("b2.jpg"); 
         background-size: cover;
         background-repeat: no-repeat;
     }
     30%{
-        background: url("./photos/b2.jpg");
+        background: url("b2.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
     40%{
-        background: url("./photos/b3.jpg");
+        background: url("b3.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
     50%{
-        background: url("./photos/b3.jpg");
+        background: url("b3.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
     60%{
-        background: url("./photos/b4.jpg");
+        background: url("b4.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
     70%{
-        background: url("./photos/b4.jpg");
+        background: url("b4.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
     80%{
-        background: url("./photos/b5.jpg");
+        background: url("b5.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
     90%{
-        background: url("./photos/b5.jpg");
+        background: url("b5.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
     100%{
-        background: url("./photos/b6.jpg");
+        background: url("b6.jpg");
         background-size: cover;
         background-repeat: no-repeat;
     }
